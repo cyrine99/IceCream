@@ -1,3 +1,3 @@
 # IceCream
 IceCream Store
-URL :  https://icecreamewee.herokuapp.com/index.html
+URL :  https://yummy-icecream.netlify.app/
